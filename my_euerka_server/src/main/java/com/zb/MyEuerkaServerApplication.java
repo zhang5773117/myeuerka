@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 // 本地新开发的功能
+//远程修改了代码
 @SpringBootApplication
 @EnableEurekaServer
 public class MyEuerkaServerApplication {
